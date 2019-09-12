@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568282988416,
+  "timestamp": 1568283778014,
   "index": "https://oleksandrpidkuiko.github.io/ng-girls-todo/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "https://oleksandrpidkuiko.github.io/ng-girls-todo/es2015-polyfills.bda95d5896422d031328.js",
         "https://oleksandrpidkuiko.github.io/ng-girls-todo/favicon.ico",
         "https://oleksandrpidkuiko.github.io/ng-girls-todo/index.html",
-        "https://oleksandrpidkuiko.github.io/ng-girls-todo/main.de1e432e898dcfb8131b.js",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/main.0778d44f962b2528e0d6.js",
         "https://oleksandrpidkuiko.github.io/ng-girls-todo/polyfills.8bbb231b43165d65d357.js",
         "https://oleksandrpidkuiko.github.io/ng-girls-todo/runtime.26209474bfa8dc87a77c.js",
         "https://oleksandrpidkuiko.github.io/ng-girls-todo/styles.3ff695c00d717f2d2a11.css"
@@ -47,8 +47,8 @@
     "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://oleksandrpidkuiko.github.io/ng-girls-todo/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "https://oleksandrpidkuiko.github.io/ng-girls-todo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://oleksandrpidkuiko.github.io/ng-girls-todo/index.html": "63bb09f0dccc0aec29e2f5661ddd658d42ce1859",
-    "https://oleksandrpidkuiko.github.io/ng-girls-todo/main.de1e432e898dcfb8131b.js": "9df9c3c92c59f15e6b7bc9bc2c8a0b48b3afc6c2",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/index.html": "14baa3c5fbb67ff4348d89f83620fafedad26cd2",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/main.0778d44f962b2528e0d6.js": "de44ba1ef2f0fafe2d54b3caba716567483923e7",
     "https://oleksandrpidkuiko.github.io/ng-girls-todo/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://oleksandrpidkuiko.github.io/ng-girls-todo/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://oleksandrpidkuiko.github.io/ng-girls-todo/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"

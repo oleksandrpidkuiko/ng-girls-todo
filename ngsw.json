@@ -1,0 +1,74 @@
+{
+  "configVersion": 1,
+  "timestamp": 1568282988416,
+  "index": "https://oleksandrpidkuiko.github.io/ng-girls-todo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/es2015-polyfills.bda95d5896422d031328.js",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/favicon.ico",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/index.html",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/main.de1e432e898dcfb8131b.js",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/polyfills.8bbb231b43165d65d357.js",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/runtime.26209474bfa8dc87a77c.js",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-128x128.png",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-144x144.png",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-152x152.png",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-192x192.png",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-384x384.png",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-512x512.png",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-72x72.png",
+        "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/index.html": "63bb09f0dccc0aec29e2f5661ddd658d42ce1859",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/main.de1e432e898dcfb8131b.js": "9df9c3c92c59f15e6b7bc9bc2c8a0b48b3afc6c2",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://oleksandrpidkuiko.github.io/ng-girls-todo/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

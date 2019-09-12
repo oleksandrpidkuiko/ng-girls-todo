@@ -6,6 +6,7 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "https://oleksandrpidkuiko.github.io/ng-girls-todo/",
+
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
